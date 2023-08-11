@@ -20,6 +20,7 @@ inpt.style.fontWeight="bold"
 inpt.style.borderRadius="10px"
 inpt.style.outline="none"
 inpt.style.border="none"
+inpt.style.textAlign="right"
 
 
 var button=document.getElementsByClassName("btn")
